@@ -1,6 +1,8 @@
 # sAtools
 The following nodejs application ( under development ) has been created just to provide minimal information about the status of most common automation tools such as Chef, Ansible and Puppet.
 
+The information has been uploaded manually to the RedisDB, so i belive in the next version i will add the possibility to load the status of the tool directly from automation tools to the DB.
+
 
 * Requirements: nodejs, npm & RedisDB
 
